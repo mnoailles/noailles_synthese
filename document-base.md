@@ -21,7 +21,7 @@ nocite: |
             \vfill
             Rapport d'activité de synthèse présenté\break
             comme exigence partielle\break
-            de la Maitrise en informatique de gestion
+            de la maitrise informatique de gestion
             \vfill
             par \break Mac-Frantz Noailles
             \vfill
@@ -75,14 +75,8 @@ Cette section est optionnelle.
 
 # Liste des abréviations, sigles et acronymes {-}
 
-29110
-  ~ Norme ISO/IEC 29110 
-
-SWEBOK
-  ~ Guide to the Software Engineering - Body of Knowledge 
-
-TPO
-  ~ Très petite organisation
+MGL
+  ~ Maitrise en génie logiciel
 
 UQAM
   ~ Université du Québec à Montréal
@@ -91,6 +85,8 @@ UQAM
 <!-- L'espacement entre les lignes est augmenté à partir d'ici-->
 
 \onehalfspacing
+
+%inclure:textes/sommaire_anglais.md
 
 # Résumé {-}
 
@@ -108,27 +104,25 @@ Exemple avec une petite note de bas de page.[^petite_note]
 
 <!-- Inclure ci-après le corps du mémoire dans l'ordre désiré -->
 
-%inclure:textes/sommaire_anglais.md
-
 %inclure:textes/introduction.md
-
-%inclure:textes/contexte.md
 
 %inclure:textes/problematique.md
 
 %inclure:textes/objectifs.md
 
+%inclure:textes/contexte.md
+
 %inclure:textes/moyens.md
 
 %inclure:textes/livrables.md
 
-%inclure:textes/echeancier.md
-
 %inclure:textes/resultats.md
 
-%inclure:textes/reflexion.md
+%inclure:textes/interpretation.md
 
 %inclure:textes/evaluation.md
+
+%inclure:textes/reflexion.md
 
 %inclure:textes/conclusion.md
 
@@ -150,4 +144,3 @@ Exemple avec une petite note de bas de page.[^petite_note]
     \onehalfspacing
     \doublespacing
 -->
-
