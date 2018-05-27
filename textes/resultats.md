@@ -1,3 +1,3 @@
-# Résultats {-}
+# Résultats
 
 Petit texte d'introduction.

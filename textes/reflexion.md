@@ -1,3 +1,3 @@
-# Réflexion {-}
+# Réflexion
 
 Petit texte d'introduction.

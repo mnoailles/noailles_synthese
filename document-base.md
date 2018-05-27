@@ -75,8 +75,14 @@ Cette section est optionnelle.
 
 # Liste des abréviations, sigles et acronymes {-}
 
-MGL
-  ~ Maitrise en génie logiciel
+29110
+  ~ Norme ISO/IEC 29110 
+
+SWEBOK
+  ~ Guide to the Software Engineering - Body of Knowledge 
+
+TPO
+  ~ Très petite organisation
 
 UQAM
   ~ Université du Québec à Montréal
