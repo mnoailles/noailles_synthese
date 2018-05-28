@@ -8,10 +8,7 @@ Mon avis est que la plus-value à attendre de ce type de recherche est moindre q
 « La folie c’est de faire quelque chose de manière identique et d’espérer des résultats différents » (Traduction libre).
 L’étude que je propose rejoint plutôt la recherche de type fondamental. Elle vise à permettre aux très petites organisations de prendre du recul par rapport à leurs activités et à les aider dans le choix des améliorations qu’ils y apportent. Suite à un raisonnement déductif, j’en viens à affirmer que pour un niveau de qualité un niveau de qualité donnée du processus de développement tel que défini par le profile basique de la 29110 les efforts d’ingénierie logicielle appliqués aux trois groupes d’activités sont complémentaires. C’est-à-dire que les efforts d’optimisation dans un groupe d’activités permettent de réduire les efforts nécessaires pour optimiser les activités d’un autre groupe.
 
-\begin{figure}
-\includegraphics{../images/theorie_simplifie}
-\caption{Proposition théorique simplifiée}
-\end{figure}
+![Proposition théorique simplifiée](images/theorie_simplifie.png)
 
-Ma proposition théorique a été déduite d’un modèle conceptuel basé sur les écrits du SWEBOK v3.0 (après SWEBOK) et se base sur le postulat qu’un processus de développement logiciel de qualité produit un logiciel de qualité.
+Ma proposition théorique a été déduite d’un modèle conceptuel basé sur les écrits du SWEBOK et se base sur le postulat qu’un processus de développement logiciel de qualité produit un logiciel de qualité.
 Dans mon étude, je cherche à explorer cette relation par la vérification d’une hypothèse. Mon hypothèse est que dans le contexte d’une très petite organisation l’implémentation des valeurs et des principes de l’Agilité et des exigences de la 29110 est complémentaire. L’Agilité étant orientée principalement vers les activités primaires et la norme ISO/IEC 29110 l’étant plus vers les activités de support. J’explore donc l’impact de la mise en place de l’un sur l’autre. Si les résultats de mon étude supportent l’hypothèse, cela appuiera la probabilité de la validité de la relation et celle de la théorie. Toutefois, d’autres validations de l’hypothèse et de la théorie s’imposeront.
